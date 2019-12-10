@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.zjc.edu.AppTest" time="0.124" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="user.variant" value=""/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.dir" value="F:\IdeaCode\EduProject\common-parent\edu-model"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.7.0_80\jre"/>
+    <property name="user.name" value="Administrator"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.7.0_80\jre\bin"/>
+    <property name="user.home" value="C:\Users\Administrator"/>
+    <property name="localRepository" value="D:\maven-repository\repository"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.io.tmpdir" value="C:\Users\ADMINI~1\AppData\Local\Temp\"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.class.path" value="F:\IdeaCode\EduProject\common-parent\edu-model\target\test-classes;F:\IdeaCode\EduProject\common-parent\edu-model\target\classes;D:\maven-repository\repository\org\springframework\spring-beans\4.2.5.RELEASE\spring-beans-4.2.5.RELEASE.jar;D:\maven-repository\repository\org\springframework\spring-core\4.2.5.RELEASE\spring-core-4.2.5.RELEASE.jar;D:\maven-repository\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\maven-repository\repository\org\springframework\spring-context\4.2.5.RELEASE\spring-context-4.2.5.RELEASE.jar;D:\maven-repository\repository\org\springframework\spring-aop\4.2.5.RELEASE\spring-aop-4.2.5.RELEASE.jar;D:\maven-repository\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;D:\maven-repository\repository\org\springframework\spring-expression\4.2.5.RELEASE\spring-expression-4.2.5.RELEASE.jar;D:\maven-repository\repository\org\springframework\spring-tx\4.2.5.RELEASE\spring-tx-4.2.5.RELEASE.jar;D:\maven-repository\repository\junit\junit\4.11\junit-4.11.jar;D:\maven-repository\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\maven-repository\repository\org\projectlombok\lombok\1.16.10\lombok-1.16.10.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="user.script" value=""/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="sun.java.command" value="C:\Users\ADMINI~1\AppData\Local\Temp\surefire4607291063241052676\surefirebooter8697202656532083359.jar C:\Users\Administrator\AppData\Local\Temp\surefire4607291063241052676 2019-12-09T17-08-29_693-jvmRun1 surefire366498502796741402tmp surefire_06759068402158582907tmp"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="surefire.test.class.path" value="F:\IdeaCode\EduProject\common-parent\edu-model\target\test-classes;F:\IdeaCode\EduProject\common-parent\edu-model\target\classes;D:\maven-repository\repository\org\springframework\spring-beans\4.2.5.RELEASE\spring-beans-4.2.5.RELEASE.jar;D:\maven-repository\repository\org\springframework\spring-core\4.2.5.RELEASE\spring-core-4.2.5.RELEASE.jar;D:\maven-repository\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\maven-repository\repository\org\springframework\spring-context\4.2.5.RELEASE\spring-context-4.2.5.RELEASE.jar;D:\maven-repository\repository\org\springframework\spring-aop\4.2.5.RELEASE\spring-aop-4.2.5.RELEASE.jar;D:\maven-repository\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;D:\maven-repository\repository\org\springframework\spring-expression\4.2.5.RELEASE\spring-expression-4.2.5.RELEASE.jar;D:\maven-repository\repository\org\springframework\spring-tx\4.2.5.RELEASE\spring-tx-4.2.5.RELEASE.jar;D:\maven-repository\repository\junit\junit\4.11\junit-4.11.jar;D:\maven-repository\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\maven-repository\repository\org\projectlombok\lombok\1.16.10\lombok-1.16.10.jar;"/>
+    <property name="java.runtime.version" value="1.7.0_80-b15"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.7.0_80\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_80\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_80\jre\classes"/>
+    <property name="surefire.real.class.path" value="C:\Users\ADMINI~1\AppData\Local\Temp\surefire4607291063241052676\surefirebooter8697202656532083359.jar"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.7.0_80\jre\lib\endorsed"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.version" value="24.80-b11"/>
+    <property name="os.name" value="Windows 8.1"/>
+    <property name="java.vm.specification.version" value="1.7"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="java.version" value="1.7.0_80"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.7.0_80\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="os.version" value="6.3"/>
+    <property name="basedir" value="F:\IdeaCode\EduProject\common-parent\edu-model"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.7.0_80\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;F:\Oracle\app\Administrator\product\11.2.0\dbhome_1\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\MySQL\MySQL Server 5.5\bin;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;D:\apache-maven-3.6.0;D:\apache-maven-3.6.0\bin;E:\WinMerge;E:\Git\cmd;E:\nodejs\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;&quot;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk1.7.0_80\bin;C:\Program Files\Java\jdk1.7.0_80\jre\bin;D:\apache-maven-3.6.0\bin;&quot;;C:\Users\Administrator\AppData\Roaming\npm;C:\Users\Administrator\AppData\Local\GitHubDesktop\bin;."/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="user.country" value="CN"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.zjc.edu.AppTest" time="0.012"/>
+</testsuite>
